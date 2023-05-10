@@ -1,0 +1,4 @@
+node_modules
+*.lock
+docs/.vitepress/dist
+docs/.vitepress/cache
